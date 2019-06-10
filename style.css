@@ -1,8 +1,8 @@
 /*-------- navigation bar start --------*/
 .navbar{
     background-color: #619d09;
-    
-margin-top: 10px;    
+margin-top: 10px; 
+margin-bottom: 10px;   
 padding: 5px 50px 10px 50px;
 }
 .navlink ul li a{
@@ -23,7 +23,7 @@ font-size: 20px;
 
 .navbar-toggler {
     width: 47px;
-    height: 34px;
+    height: 30px;
     /* background-color: #7eb444;
     border: none; */
    
