@@ -181,3 +181,9 @@ header .carousel-inner .item{
 }
 /*-------- Services end --------*/
 
+.card{
+    color:black;
+}
+.card-body h5{
+    text-align:center;
+}
